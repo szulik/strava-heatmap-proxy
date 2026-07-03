@@ -1,6 +1,6 @@
 name = "strava-heatmap-proxy"
 main = "index.js"
-workers_dev = false
+workers_dev = true
 
 compatibility_date = "2021-11-19"
 
