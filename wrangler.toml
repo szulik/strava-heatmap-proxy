@@ -18,4 +18,4 @@ vars = { TILE_CACHE_SECS = "86400", ALLOWED_ORIGINS = "" }
 # Create with: wrangler kv namespace create STRAVA_HEATMAP_PROXY_COOKIES
 [[kv_namespaces]]
 binding = "STRAVA_HEATMAP_PROXY_COOKIES"
-id = "<NAMESPACE_ID>"
+id = "77c8543843fe420dbb50d8e2ce394ac5"
